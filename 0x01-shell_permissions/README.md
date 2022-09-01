@@ -1,1 +1,1 @@
-a script for directories permissions
+Another directory creation
