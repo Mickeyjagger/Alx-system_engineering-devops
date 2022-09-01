@@ -1,1 +1,1 @@
-change the working directory to the users home directory
+switch the current user
