@@ -1,1 +1,1 @@
-a script that adds execution permission
+sets permission to the file
