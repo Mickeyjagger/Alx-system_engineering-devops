@@ -1,1 +1,1 @@
-current directory contents with user and group ids displayed numerically
+a script that creates a directory
