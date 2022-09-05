@@ -1,1 +1,1 @@
-all groups
+a script that prints Hello World
